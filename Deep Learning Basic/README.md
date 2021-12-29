@@ -8,3 +8,7 @@
 2. 깃헙에 요약 업로드
 순으로 진행합니다.
 
+
+|순번|날짜|논문 명|Directory|논문 URL|
+|---|---|---|---|---|
+|1|2021.12.29|Batch Normalization|Deep Learning Basic|https://arxiv.org/abs/1502.03167|
