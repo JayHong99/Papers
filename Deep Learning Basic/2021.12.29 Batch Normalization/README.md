@@ -1,6 +1,6 @@
 # 2021.12.29 Batch Normalization
 
-## 풀네임
+## Article 풀네임
 - Batch Normalization : Accelerating Deep Neural Network Training by Reducing Internal Covariate Shift
 - https://arxiv.org/abs/1502.03167
 - 자세한 요약 : https://jayhong1999.notion.site/2021-12-29-Batch-Normalization-c58d6f0d7578410ba1015413b148122a
