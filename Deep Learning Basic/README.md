@@ -12,3 +12,4 @@
 |순번|날짜|논문 명|Directory|논문 URL|
 |---|---|---|---|---|
 |1|2021.12.29|Batch Normalization|Deep Learning Basic|https://arxiv.org/abs/1502.03167|
+|2|2022.01.02|Layer Normalization|Deep Learning Basic|https://arxiv.org/abs/1607.06450|
