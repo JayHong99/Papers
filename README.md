@@ -13,3 +13,5 @@
 |---|---|---|---|---|
 |1|2021.12.29|Batch Normalization|Deep Learning Basic|https://arxiv.org/abs/1502.03167|
 |2|2022.01.02|Layer Normalization|Deep Learning Basic|https://arxiv.org/abs/1607.06450|
+|3|2022.02.04|ResNet|CV|https://arxiv.org/abs/1512.03385|
+|4|2022.05.13|DGR|Continual Learning|https://arxiv.org/abs/1705.08690|
